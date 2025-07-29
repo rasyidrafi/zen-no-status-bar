@@ -1,6 +1,5 @@
 @-moz-document url-prefix("chrome:") {
-  /* Hide the status bar */
-  #status-bar {
-    display: none !important;
+  #statuspanel {
+   display: none !important;
   }
 }
