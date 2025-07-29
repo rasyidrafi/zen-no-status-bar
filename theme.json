@@ -1,0 +1,20 @@
+{
+  "id": "zen-no-status-bar",
+  "name": "No Status Bar",
+  "description": "Hide the status bar for a cleaner Zen/Firefox UI.",
+  "homepage": "https://github.com/rasyidrafi/zen-no-status-bar/new/main",
+  "image": "https://github.com/rasyidrafi/zen-no-status-bar/blob/main/icon.png?raw=true",
+  "style": {
+    "chrome": "https://raw.githubusercontent.com/rasyidrafi/zen-no-status-bar/refs/heads/main/chrome.css"
+  },
+  "readme": "https://raw.githubusercontent.com/rasyidrafi/zen-no-status-bar/refs/heads/main/README.md",
+  "author": "rasyidrafi",
+  "version": "1.0.0",
+  "tags": [
+    "Customization",
+    "Status Bar"
+  ],
+  "createdAt": "2025-07-29",
+  "updatedAt": "2025-07-29",
+  "fork": ["zen", "firefox"]
+}
