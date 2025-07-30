@@ -63,4 +63,4 @@ Created by [rasyidrafi](https://github.com/rasyidrafi)
 
 ---
 
-*Version 3.0.1 - Last updated: July 29, 2025*
+*Version 3.0.2 - Last updated: July 29, 2025*
